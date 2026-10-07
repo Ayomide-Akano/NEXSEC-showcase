@@ -28,13 +28,13 @@ The core rule is simple: **never confuse the ability to act with the authority t
 | Working | Gateway detected as an authority candidate, with recorded evidence |
 | Working | NEXSEC-side authorization (does not grant device-side access) |
 | Working | Evidence-based asset classification (gateway, NEXSEC sensor, endpoint) |
-| In progress | Command Center: asset and service inventory and details (implementation complete; full interactive verification pending) |
+| Working | Command Center: asset and service inventory, classification, and detail views with authenticated access and navigation controls |
 | Working | Database reset for repeatable lab testing |
-| In progress | Continuous Watch (start, suspend, resume, stop, status) |
+| Working | Continuous Watch (start, suspend, resume, stop, status) with asset-change detection and alert/event logging |
 | In progress | Firewall enforcement, segmentation, risk, incidents, audit, zero trust |
 | Planned | Linux/nftables gateway integration, baselines, anomaly detection, policy engine |
 
-Status reflects capabilities that have been implemented and/or exercised in the controlled lab; items awaiting full end-to-end verification are deliberately not presented as complete.
+Status reflects capabilities that have been implemented and exercised in the controlled lab. Continuous Watch and Command Center inventory/details have been live-tested, including watch alerting when asset state changes.
 
 ## Design principles
 
