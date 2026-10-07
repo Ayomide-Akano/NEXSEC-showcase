@@ -2,11 +2,8 @@
 
 ## Now
 
-- Deepen conservative, evidence-based asset classification.
-- Finish and live-test Continuous Watch controls: start, suspend, resume, stop, and status.
-- Complete end-to-end verification of the Command Center inventory and detail flows.
+- Continue deepening conservative, evidence-based asset classification.
 - Continue testing firewall, segmentation, risk, incident, audit, and zero-trust capabilities.
-
 ## Next
 
 - Linux/nftables gateway integration as the first full test of the chain: discover gateway → classify → authorize → provision access → validate capability → test a controlled action → record evidence.
