@@ -74,11 +74,13 @@ No real production systems or credentials are represented in this public showcas
 
 ## Contact
 
-**Ayomide Temitayo Akano**, cybersecurity — Nigeria.
+**Ayomide Temitayo Akano**, cybersecurity (Nigeria).
 
 Open to cybersecurity roles, security engineering opportunities, contract work, internships, and collaboration.
 
-GitHub: https://github.com/Ayomide-Akano
+- Email: akanoayomi1276@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akano-ayomide-6a20a4193?trk=contact-info
+- GitHub: https://github.com/Ayomide-Akano
 
 ## License
 
